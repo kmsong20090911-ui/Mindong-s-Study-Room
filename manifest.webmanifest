@@ -1,9 +1,9 @@
 {
-  "name":"StudyFlow",
-  "short_name":"StudyFlow",
-  "start_url":"./",
+  "name":"민동의 스터디룸",
+  "short_name":"민동 스터디룸",
+  "start_url":".",
   "display":"standalone",
-  "background_color":"#f7f5ff",
-  "theme_color":"#f7f5ff",
-  "lang":"ko"
+  "background_color":"#f7f6ff",
+  "theme_color":"#7967e9",
+  "icons":[]
 }
